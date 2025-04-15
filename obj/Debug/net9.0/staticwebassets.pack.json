@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/shahadjeza/Documents/ELM_training/ApiWithRedisCache/wwwroot/app.js",
+      "PackagePath": "staticwebassets/app.js"
+    },
+    {
+      "Id": "/Users/shahadjeza/Documents/ELM_training/ApiWithRedisCache/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.ApiWithRedisCache.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.ApiWithRedisCache.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.ApiWithRedisCache.props",
+      "PackagePath": "build\\ApiWithRedisCache.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.ApiWithRedisCache.props",
+      "PackagePath": "buildMultiTargeting\\ApiWithRedisCache.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.ApiWithRedisCache.props",
+      "PackagePath": "buildTransitive\\ApiWithRedisCache.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

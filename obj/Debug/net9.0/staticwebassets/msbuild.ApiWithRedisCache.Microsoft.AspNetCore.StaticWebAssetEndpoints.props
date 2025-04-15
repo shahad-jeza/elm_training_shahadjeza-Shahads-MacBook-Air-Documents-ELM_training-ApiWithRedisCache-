@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/ApiWithRedisCache/app.idq9odmgmj.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"idq9odmgmj"},{"Name":"integrity","Value":"sha256-xrkpc2O28\u002BFlu0ZM\u002BB5M79SBQa/\u002BFfXAoPQ03yym\u002BsQ="},{"Name":"label","Value":"_content/ApiWithRedisCache/app.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3123"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022xrkpc2O28\u002BFlu0ZM\u002BB5M79SBQa/\u002BFfXAoPQ03yym\u002BsQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Apr 2025 11:13:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ApiWithRedisCache/app.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xrkpc2O28\u002BFlu0ZM\u002BB5M79SBQa/\u002BFfXAoPQ03yym\u002BsQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3123"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022xrkpc2O28\u002BFlu0ZM\u002BB5M79SBQa/\u002BFfXAoPQ03yym\u002BsQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Apr 2025 11:13:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ApiWithRedisCache/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gqCVGAvojVtJniRTqkeApX4zhbO2I7xP8cyf94UgP/o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2131"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022gqCVGAvojVtJniRTqkeApX4zhbO2I7xP8cyf94UgP/o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Apr 2025 11:09:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ApiWithRedisCache/index.ulbjvsbrlu.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ulbjvsbrlu"},{"Name":"integrity","Value":"sha256-gqCVGAvojVtJniRTqkeApX4zhbO2I7xP8cyf94UgP/o="},{"Name":"label","Value":"_content/ApiWithRedisCache/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2131"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022gqCVGAvojVtJniRTqkeApX4zhbO2I7xP8cyf94UgP/o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Apr 2025 11:09:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
